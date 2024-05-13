@@ -17,7 +17,7 @@ Sklearn
 perlin_noise
 
 
-## Get Start
+# Get Start
 Train
 ```
 python run_autoencoder.py
@@ -26,5 +26,9 @@ Test
 ```
 python test.py
 ```
+
+# FingerNet Weights
+link：https://pan.baidu.com/s/1jdnHr232r7Vv_elpYm7nIQ
+password：hrw3
 
 
